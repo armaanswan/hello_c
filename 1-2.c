@@ -1,3 +1,5 @@
+// 1.2 - Variables and Arithmetic Expressions
+
 #include <stdio.h> // Standard IO library
 
 /* Convert Fahrenheit to Celcius (Integer) */

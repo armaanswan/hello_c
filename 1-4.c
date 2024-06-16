@@ -1,6 +1,6 @@
-#include <stdio.h>
+// 1.4 - Symbolic Constants
 
-// Symbolic Constants
+#include <stdio.h>
 
 #define LOWER 0
 #define UPPER 300
