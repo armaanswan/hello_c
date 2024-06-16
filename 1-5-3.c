@@ -1,6 +1,6 @@
-#include <stdio.h>
+// 1.5.3 - Line Counting
 
-// Counting number of lines
+#include <stdio.h>
 
 int main()
 {

@@ -1,6 +1,6 @@
-#include <stdio.h>
+// Exercise 1-4: Celcius to Fahrenheit Table (with headings)
 
-// Convert Celcius to Fahrenheit (Float)
+#include <stdio.h>
 
 int main()
 {

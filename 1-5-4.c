@@ -1,3 +1,5 @@
+// 1.5.4 - Word Counting
+
 #include <stdio.h>
 
 // Counting the number of characters, words, and lines similar to the 'wc' command.

@@ -1,3 +1,5 @@
+// 1.5 - Character Input and Output
+
 #include <stdio.h>
 
 // Overview of getchar() and putchar() in C.

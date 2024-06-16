@@ -1,6 +1,6 @@
-#include <stdio.h>
-
 // Exercise 1-9: Replacing one or more blanks with a single blank
+
+#include <stdio.h>
 
 int main()
 {

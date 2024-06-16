@@ -1,6 +1,6 @@
-#include <stdio.h>
+// Exercise 1-10: Replacing characters with their escape sequence codes
 
-// Exercise 1-10: Replacing things with their escape sequence codes
+#include <stdio.h>
 
 int main()
 {
