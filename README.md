@@ -1,1 +1,2 @@
 Learning C by reading The C Programming Language (ANSI C) by Brian W. Kernighan, Dennis M. Ritchie (Second Edition).
+(Lastest commit was made to upload the code safely to GitHub. It might or might not have incomplete code.)
